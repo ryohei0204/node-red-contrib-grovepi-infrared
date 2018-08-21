@@ -1,1 +1,1 @@
-# node-red-contrib-grovepi-infrared
+grove-piからの赤外線を読み込む
