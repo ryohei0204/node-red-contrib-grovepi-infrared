@@ -22,7 +22,7 @@
     "infrared"
   ],
   "dependencies": {
-    "node-grovepi": "^1.0.0"
+    "node-grovepi": "latest"
   },
   "author": "ryohei0204",
   "license": "Apache-2.0",
